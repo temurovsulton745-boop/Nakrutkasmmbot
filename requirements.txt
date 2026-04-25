@@ -1,0 +1,5 @@
+aiogram
+aiohttp
+psycopg2-binary
+flask
+gunicorn
